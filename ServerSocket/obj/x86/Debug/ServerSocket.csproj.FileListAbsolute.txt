@@ -1,0 +1,5 @@
+/home/yuliya/Projects/ServerSocket/ServerSocket/bin/Debug/ServerSocket.exe
+/home/yuliya/Projects/ServerSocket/ServerSocket/bin/Debug/ServerSocket.pdb
+/home/yuliya/Projects/ServerSocket/ServerSocket/obj/x86/Debug/ServerSocket.csproj.CoreCompileInputs.cache
+/home/yuliya/Projects/ServerSocket/ServerSocket/obj/x86/Debug/ServerSocket.exe
+/home/yuliya/Projects/ServerSocket/ServerSocket/obj/x86/Debug/ServerSocket.pdb

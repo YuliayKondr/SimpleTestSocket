@@ -1,0 +1,6 @@
+/home/yuliya/Projects/ServerSocket/ClientS/bin/Debug/ClientS.exe
+/home/yuliya/Projects/ServerSocket/ClientS/bin/Debug/ClientS.pdb
+/home/yuliya/Projects/ServerSocket/ClientS/obj/x86/Debug/ClientSocket.csproj.CoreCompileInputs.cache
+/home/yuliya/Projects/ServerSocket/ClientS/obj/x86/Debug/ClientS.exe
+/home/yuliya/Projects/ServerSocket/ClientS/obj/x86/Debug/ClientS.pdb
+/home/yuliya/Projects/ServerSocket/ClientS/obj/x86/Debug/ClientSocket.csprojAssemblyReference.cache

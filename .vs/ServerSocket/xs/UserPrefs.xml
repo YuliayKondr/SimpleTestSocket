@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{B6D81015-5801-48FA-883F-FA6D5C002405}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClientS/ClientS.cs">
+    <Files>
+      <File FileName="ServerSocket/Program.cs" Line="10" Column="1" />
+      <File FileName="ServerSocket/ServerS.cs" Line="44" Column="1" />
+      <File FileName="ClientS/Program.cs" Line="15" Column="25" />
+      <File FileName="ClientS/ClientS.cs" Line="68" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ServerSocket" expanded="True">
+            <Node name="ClientSocket" expanded="True">
+              <Node name="ClientS.cs" selected="True" />
+            </Node>
+            <Node name="ServerSocket" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ClientSocket PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ServerSocket PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/yuliya/Projects/ServerSocket/ServerSocket/ServerS.cs" relfile="ServerSocket/ServerS.cs" line="45" column="1" />
+      <Breakpoint file="/home/yuliya/Projects/ServerSocket/ClientS/ClientS.cs" relfile="ClientS/ClientS.cs" line="27" column="1" />
+      <Breakpoint file="/home/yuliya/Projects/ServerSocket/ServerSocket/ServerS.cs" relfile="ServerSocket/ServerS.cs" line="56" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
